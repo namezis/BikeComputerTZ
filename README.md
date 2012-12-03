@@ -7,4 +7,6 @@ The project was created more for fun and education. I have used it when riding t
 
 I have new oLED display connected to I2C, when I find time I will make adjustments to the code.
 
+The sensor was a reed switch with magent drilled into M10 bolt fixed on a wheel.
+
 Some of the code I have scavenged from projects on the Internet. Credits preserved.
